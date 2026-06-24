@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sai Adithya
 
-💻 Backend Engineering | ☁️ Cloud & DevOps | 🤖 Machine Learning
+💻 Backend Engineering | 🤖 Machine Learning | ☁️ Cloud & DevOps
 
 ---
 
@@ -8,8 +8,24 @@
 
 * 💻 Passionate about building backend systems, intelligent applications, and cloud-native platforms.
 * ☁️ Interested in Cloud Computing, Kubernetes, DevOps, and Infrastructure Automation.
-* 🤖 Exploring Machine Learning, Explainable AI, and Fraud Detection Systems.
-* 🎯 Goal: Build reliable software systems that combine scalable backend services, intelligent decision-making, and modern deployment practices.
+* 🤖 Exploring Machine Learning, Explainable AI, and Risk Intelligence Systems.
+* 🎯 Goal: Build reliable software systems that combine backend engineering, intelligent decision-making, and modern deployment practices.
+
+---
+
+## 🎯 Focus Areas
+
+* Backend Development
+* Cloud Technologies & DevOps
+* Machine Learning & AI
+
+---
+
+## 🌱 Currently Exploring
+
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Distributed Systems
 
 ---
 
@@ -49,21 +65,30 @@ Prometheus • Grafana • SonarQube • Trivy • OWASP Dependency-Check
 
 ### 🔍 Service Impact Analysis Platform
 
-Workspace-based platform for modeling service dependencies, managing ownership through RBAC, and generating impact reports using graph traversal techniques.
+A platform for modeling service dependencies, managing ownership through RBAC, and generating impact reports using graph traversal techniques.
+
+🔗 Repository: https://github.com/MSAdithya45/Service-Dependency-Mapping-Impact-Analysis
 
 ### 🛡 Fraud Detection & Risk Intelligence Platform
 
-End-to-end fraud detection system combining anomaly detection, supervised learning, explainability, drift detection, and Gemini-powered insights.
+An end-to-end fraud detection system combining anomaly detection, supervised learning, explainability, drift detection, and AI-powered insights.
+
+🔗 Repository: https://github.com/MSAdithya45/fraud_detection
 
 ### ☁️ DevSecOps Pipeline on AWS EKS
 
-Automated CI/CD pipeline for a three-tier application with security validation, GitOps-based deployments, canary releases, and observability on AWS EKS.
+Automated CI/CD pipeline with security validation, GitOps-based deployments, canary releases, and observability for a three-tier application on AWS EKS.
+
+🔗 CI/CD Repository: https://github.com/MSAdithya45/DevSecOps
+
+🔗 Kubernetes Repository: https://github.com/MSAdithya45/Kubernetes
 
 ---
 
+
 ## 🎓 Education
 
-🎓 B.E. in Computer Science and Engineering
+**B.E. in Computer Science and Engineering**
 BMS College of Engineering, Bengaluru
 Expected 2027 | CGPA: 8.82/10
 
@@ -86,5 +111,4 @@ Expected 2027 | CGPA: 8.82/10
 
 ---
 
-⭐ Building backend systems, intelligent applications, and cloud-native platforms.
-
+🚀 Building backend systems, intelligent applications, and cloud-native platforms.
